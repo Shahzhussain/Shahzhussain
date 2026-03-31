@@ -60,7 +60,6 @@ I am a Computer Science student at FAST-NUCES, Lahore with a deep passion for **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzhussain&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzhussain&theme=dark&hide_border=true)
 ---
